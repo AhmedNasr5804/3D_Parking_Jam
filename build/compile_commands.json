@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Fall forth year/freelance/salma/3D_Parking_Jam/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -I\"D:/Fall forth year/freelance/salma/3D_Parking_Jam/include\" -g -o CMakeFiles\\glad.dir\\src\\glad.c.obj -c \"D:\\Fall forth year\\freelance\\salma\\3D_Parking_Jam\\src\\glad.c\"",
+  "file": "D:/Fall forth year/freelance/salma/3D_Parking_Jam/src/glad.c",
+  "output": "D:/Fall forth year/freelance/salma/3D_Parking_Jam/build/CMakeFiles/glad.dir/src/glad.c.obj"
+},
+{
+  "directory": "D:/Fall forth year/freelance/salma/3D_Parking_Jam/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -I\"D:/Fall forth year/freelance/salma/3D_Parking_Jam/include\" -g -std=gnu++17 -o CMakeFiles\\ParkingJam3D.dir\\src\\main.cpp.obj -c \"D:\\Fall forth year\\freelance\\salma\\3D_Parking_Jam\\src\\main.cpp\"",
+  "file": "D:/Fall forth year/freelance/salma/3D_Parking_Jam/src/main.cpp",
+  "output": "D:/Fall forth year/freelance/salma/3D_Parking_Jam/build/CMakeFiles/ParkingJam3D.dir/src/main.cpp.obj"
+}
+]

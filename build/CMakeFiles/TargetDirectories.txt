@@ -1,0 +1,4 @@
+D:/Fall forth year/freelance/salma/3D_Parking_Jam/build/CMakeFiles/glad.dir
+D:/Fall forth year/freelance/salma/3D_Parking_Jam/build/CMakeFiles/ParkingJam3D.dir
+D:/Fall forth year/freelance/salma/3D_Parking_Jam/build/CMakeFiles/edit_cache.dir
+D:/Fall forth year/freelance/salma/3D_Parking_Jam/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,47 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "CMake: Configure (MSYS2)",
+      "type": "shell",
+      "command": "cmake -S . -B build -G \"MinGW Makefiles\"",
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "shell": {
+          "executable": "C:\\msys64\\usr\\bin\\bash.exe",
+          "args": ["-lc"]
+        }
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "CMake: Build (MSYS2)",
+      "type": "shell",
+      "command": "cmake --build build -- -j4",
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "shell": {
+          "executable": "C:\\msys64\\usr\\bin\\bash.exe",
+          "args": ["-lc"]
+        }
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "CMake: Configure & Build (MSYS2)",
+      "dependsOn": [
+        "CMake: Configure (MSYS2)",
+        "CMake: Build (MSYS2)"
+      ],
+      "dependsOrder": "sequence",
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      }
+    }
+  ]
+}

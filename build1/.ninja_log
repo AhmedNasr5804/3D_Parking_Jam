@@ -1,0 +1,5 @@
+# ninja log v7
+19	889	7851973053065352	CMakeFiles/ParkingJam3D.dir/src/main.cpp.obj	11f813fb13097ca
+3	1151	7851896957692527	CMakeFiles/glad.dir/src/glad.c.obj	30d3935fbdfbe165
+1153	1502	7851896969190487	libglad.a	31bf6d83b8d12cbb
+27	171	7851977114256216	ParkingJam3D.exe	e4fda2699133642e
